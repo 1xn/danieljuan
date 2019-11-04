@@ -1,8 +1,10 @@
-Aloha!
+##Aloha!
 
 this is my first website hosted on github pages. 
 
-Learning how to commit and push.
+Enforced SSL encryption courtesy of Let's Encrypt.
 
-:D
+Finally learning how to commit and push to repositories via terminal.
+
+Yay! 🥰
 
