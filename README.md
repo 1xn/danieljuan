@@ -1,6 +1,6 @@
 # Hello world!
 
-Alright! This is my first website hosted on github pages. Enforced SSL encryption courtesy of Let's Encrypt.
+Alright! This was my first website hosted on github pages. Enforced SSL encryption courtesy of Let's Encrypt.
 
 Thanks to Github for the amazing community and learning experience! **I am finally** learning how to commit and push to repositories via terminal.
 
